@@ -43,12 +43,12 @@ Convert the following octal numbers into binary and hexadecimal:
 
 ## (5 pts) Wakerly, Problem 2.5 (a)-(f)
 Convert the following numbers into decimal:
-- > a. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{1011101}_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{1011101}_{2}={93}_{10}" title="{1011101}_{2}" /></a>
-- > b. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{173016}_{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{173016}_{8}={62990}_{10}" title="{173016}_{8}" /></a>
-- > c. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{10110001}_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{10110001}_{2}={177}_{10}" title="{10110001}_{2}" /></a>
-- > d. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{66.27}_{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{66.27}_{8}={54.359375}_{10}" title="{66.27}_{8}" /></a>
-- > e. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{10101.1001}_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{10101.1001}_{2}={21.5625}_{10}" title="{10101.1001}_{2}" /></a>
-- > f. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{FCB6}_{16}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{FCB6}_{16}={64694}_{10}" title="{FCB6}_{16}" /></a>
+- > a. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{1011101}_{2}={93}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{1011101}_{2}={93}_{10}" title="{1011101}_{2}={93}_{10}" /></a>
+- > b. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{173016}_{8}={62990}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{173016}_{8}={62990}_{10}" title="{173016}_{8}={62990}_{10}" /></a>
+- > c. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{10110001}_{2}={177}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{10110001}_{2}={177}_{10}" title="{10110001}_{2}={177}_{10}" /></a>
+- > d. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{66.27}_{8}={54.359375}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{66.27}_{8}={54.359375}_{10}" title="{66.27}_{8}={54.359375}_{10}" /></a>
+- > e. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{10101.1001}_{2}={21.5625}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{10101.1001}_{2}={21.5625}_{10}" title="{10101.1001}_{2}={21.5625}_{10}" /></a>
+- > f. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{FCB6}_{16}={64694}_{10}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;{FCB6}_{16}={64694}_{10}" title="{FCB6}_{16}={64694}_{10}" /></a>
 
 ## (5 pts) Wakerly, Problem 2.7 (a)-(b)
 Add the following pairs of binary numbers, showing all carries:
