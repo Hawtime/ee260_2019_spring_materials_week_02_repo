@@ -37,7 +37,7 @@ uncompressed encoding follows. Using this encoding scheme, decompress the follow
 
 ## (5 pts) Wakerly, Problem 2.2 (a)-(c)
 Convert the following octal numbers into binary and hexadecimal:
-- > a. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;${4321}_{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;${4321}_{8}={100011010001}_{2}={8D1}_{16}" title="${4321}_{8}" /></a>
+- > a. <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;${4321}_{8}={100011010001}_{2}={8D1}_{16}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;${4321}_{8}={100011010001}_{2}={8D1}_{16}" title="${4321}_{8}={100011010001}_{2}={8D1}_{16}" /></a>
 - > b. <a href="https://www.codecogs.com/eqnedit.php?latex={1772631}_{8}={1111111010110011001}_{2}&space;=&space;{7F599}_{16}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{1772631}_{8}={1111111010110011001}_{2}&space;=&space;{7F599}_{16}" title="{1772631}_{8}={1111111010110011001}_{2} = {7F599}_{16}" /></a>
 - > c. <a href="https://www.codecogs.com/eqnedit.php?latex={533434}_{8}=&space;{101011011100011100}_{2}&space;=&space;{2B71C}_{16}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{533434}_{8}=&space;{101011011100011100}_{2}&space;=&space;{2B71C}_{16}" title="{533434}_{8}= {101011011100011100}_{2} = {2B71C}_{16}" /></a>
 
