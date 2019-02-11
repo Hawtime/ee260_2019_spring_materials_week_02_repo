@@ -4,7 +4,7 @@ author:
 partner:
 date:
 ---
-# Task number X-X
+
 
 During the lab, follow the steps in the Workbook, and complete the following.
 - Fill in the code snippets to complete your design.
